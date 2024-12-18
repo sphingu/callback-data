@@ -31,5 +31,3 @@ The **Appointments Manager Plugin** is a powerful tool designed to streamline ap
    - Set up notification preferences.  
 3. Share your booking link with clients or integrate the plugin into your website or app.  
 4. Start managing appointments seamlessly!  
-
----
